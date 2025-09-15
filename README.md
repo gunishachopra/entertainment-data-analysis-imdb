@@ -31,9 +31,6 @@ This project explores trends and insights from the IMDb movie dataset to underst
 - 📈 Visualized genre-wise rating trends and viewer preferences  
 - 🎯 Insights support production planning and marketing strategy in media
 
----
-## 🎥Video explanation by me:
-https://drive.google.com/file/d/1NJGVbqEDrNl2CHO3_J4kyfrxuzJtAhy_/view?usp=drive_link
 ## 📬 Contact
 
 **Gunisha Chopra**  
